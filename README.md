@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I am currently working on Web Development with Node.js, React.js. I also work with Data Science using Pandas. I recently started studies on Vagrant and Ansible.⚡
+
+  ![Snake animation](https://github.com/thiagos98/thiagos98/blob/output/github-contribution-grid-snake.svg)
