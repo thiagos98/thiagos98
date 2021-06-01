@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I am currently working on Web Development with Node.js, React.js. I also work with Data Science using Pandas. I recently started studies on Vagrant and Ansible.⚡
+🔭 I'm currently working on Web Development with Node.js, React.js. I also work with Data Science using Pandas and game development using Unity Engine. Recently, I started studying Vagrant, Ansible and Docker.⚡
 <div>
   <a href="https://github.com/thiagos98">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagos98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
