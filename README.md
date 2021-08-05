@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I'm currently working on Web Development with Node.js, Express.js and React.js. 
+🔭 I'm currently working on Web Development with Node.js, Express.js and React.js.<br/> 
 ⚡ I’m currently learning with Data Science using Pandas and game development using Unity Engine/C#.⚡
 <div>
   <a href="https://github.com/thiagos98">
